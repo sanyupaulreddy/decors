@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Wedding Planners",
+    "location": "Hyderabad",
+    "specialty": "Traditional South Indian Decor",
+    "contact": "1234567890"
+  },
+  {
+    "id": 2,
+    "name": "Sri Sai Events",
+    "location": "Hyderabad",
+    "specialty": "Modern Indian Decor",
+    "contact": "2345678901"
+  },
+  {
+    "id": 3,
+    "name": "Shubh Vivah Decorators",
+    "location": "Hyderabad",
+    "specialty": "Luxury Floral Decor",
+    "contact": "3456789012"
+  },
+  {
+    "id": 4,
+    "name": "Classic Decorators",
+    "location": "Hyderabad",
+    "specialty": "Traditional Theme Decor",
+    "contact": "4567890123"
+  },
+  {
+    "id": 5,
+    "name": "Graceful Occasions",
+    "location": "Hyderabad",
+    "specialty": "Elegant Stage Decor",
+    "contact": "5678901234"
+  },
+  {
+    "id": 6,
+    "name": "Lavish Events",
+    "location": "Hyderabad",
+    "specialty": "Luxurious Wedding Decor",
+    "contact": "6789012345"
+  },
+  {
+    "id": 7,
+    "name": "Divine Decorations",
+    "location": "Hyderabad",
+    "specialty": "Divine Theme Decor",
+    "contact": "7890123456"
+  },
+  {
+    "id": 8,
+    "name": "Dreamy Decors",
+    "location": "Hyderabad",
+    "specialty": "Dreamy Wedding Setup",
+    "contact": "8901234567"
+  },
+  {
+    "id": 9,
+    "name": "Mystical Events",
+    "location": "Hyderabad",
+    "specialty": "Mystical Theme Decor",
+    "contact": "9012345678"
+  },
+  {
+    "id": 10,
+    "name": "Blissful Creations",
+    "location": "Hyderabad",
+    "specialty": "Whimsical Decor",
+    "contact": "0123456789"
+  },
+  {
+    "id": 11,
+    "name": "Enchanted Occasions",
+    "location": "Hyderabad",
+    "specialty": "Enchanted Forest Decor",
+    "contact": "1234567890"
+  },
+  {
+    "id": 12,
+    "name": "Charming Events",
+    "location": "Hyderabad",
+    "specialty": "Charming Theme Decor",
+    "contact": "2345678901"
+  },
+  {
+    "id": 13,
+    "name": "Regal Weddings",
+    "location": "Hyderabad",
+    "specialty": "Regal Decorations",
+    "contact": "3456789012"
+  },
+  {
+    "id": 14,
+    "name": "Elegant Events",
+    "location": "Hyderabad",
+    "specialty": "Elegant Theme Decor",
+    "contact": "4567890123"
+  },
+  {
+    "id": 15,
+    "name": "Majestic Occasions",
+    "location": "Hyderabad",
+    "specialty": "Majestic Decor Setup",
+    "contact": "5678901234"
+  },
+  {
+    "id": 16,
+    "name": "Golden Touch Events",
+    "location": "Hyderabad",
+    "specialty": "Golden Theme Decor",
+    "contact": "6789012345"
+  },
+  {
+    "id": 17,
+    "name": "Vibrant Vibes Decor",
+    "location": "Hyderabad",
+    "specialty": "Vibrant Decor Setup",
+    "contact": "7890123456"
+  },
+  {
+    "id": 18,
+    "name": "Sunshine Events",
+    "location": "Hyderabad",
+    "specialty": "Sunshine Theme Decor",
+    "contact": "8901234567"
+  },
+  {
+    "id": 19,
+    "name": "Glorious Decor",
+    "location": "Hyderabad",
+    "specialty": "Glorious Decorations",
+    "contact": "9012345678"
+  },
+  {
+    "id": 20,
+    "name": "Sparkling Occasions",
+    "location": "Hyderabad",
+    "specialty": "Sparkling Theme Decor",
+    "contact": "0123456789"
+  }
+]
